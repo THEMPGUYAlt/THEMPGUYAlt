@@ -72,6 +72,8 @@ Status        Building something new...
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thempguyalt&show_icons=true&theme=radical&locale=en&layout=compact" alt="thempguyalt" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thempguyalt&theme=dark" alt="thempguyalt" />
 
+</p>
+
 ---
 
 # Activity
