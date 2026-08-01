@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1f6feb,100:58a6ff&text=THEMPGUY&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Infrastructure%20•%20Minecraft&descAlignY=58"/>
@@ -122,4 +121,4 @@ Status        Building something new...
 *"Build it once. Automate it forever."*
 
 </div>
-````
+
