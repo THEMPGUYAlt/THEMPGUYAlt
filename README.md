@@ -67,11 +67,10 @@ Status        Building something new...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=THEMPGUYAlt&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thempguyalt" alt="THEMPGUY" /></a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEMPGUYAlt&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thempguyalt&show_icons=true&theme=radical&locale=en&layout=compact" alt="thempguyalt" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thempguyalt&theme=dark" alt="thempguyalt" />
 
 ---
 
@@ -107,14 +106,9 @@ Status        Building something new...
 ---
 
 # Discord
-
-```text
-╭──────────────────────────────╮
-│  Discord                     │
-├──────────────────────────────┤
-│  thempguy.                   │
-╰──────────────────────────────╯
-```
+<p align="center">
+<a href="https://dsc.gg/realmsnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dsc.gg/realmsnetwork" height="30" width="40" /></a>
+</p>
 
 ---
 
