@@ -91,15 +91,15 @@ Status        Building something new...
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/THEMPGUYAlt/THEMPGUYAlt/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/THEMPGUYMain/THEMPOS/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/THEMPGUYAlt/THEMPGUYAlt/output/github-snake-light.svg"
+      srcset="https://raw.githubusercontent.com/THEMPGUYMain/THEMPOS/output/github-snake-light.svg"
     />
     <img
       alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/THEMPGUYAlt/THEMPGUYAlt/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/THEMPGUYMain/THEMPOS/output/github-snake.svg"
     />
   </picture>
 </p>
