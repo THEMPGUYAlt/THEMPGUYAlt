@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/THEMPGUYAlt/THEMPGUYAlt/images/catbanner.jpeg" alt="Cat Banner :D" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1f6feb,100:58a6ff&text=THEMPGUY&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Infrastructure%20•%20Minecraft&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+backend+software.;Creating+Minecraft+infrastructure.;Automating+everything.;Java+%7C+Node.js+%7C+Bun+%7C+Linux."/>
